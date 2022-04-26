@@ -1,0 +1,24 @@
+*.py[cod]
+__pycache__
+pyvenv.cfg
+
+# C extensions
+*.so
+
+# Installer logs
+pip-log.txt
+
+# IDEs and text editors
+*~
+*.swp
+.idea/
+.project
+.pycharm_helpers/
+.pydevproject
+.vscode/
+
+# OS X artifacts
+*.DS_Store
+
+# Development task artifacts
+db.sqlite3
